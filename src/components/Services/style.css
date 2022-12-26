@@ -1,0 +1,31 @@
+.services{
+    background:#ddd;
+    padding:3% 0 ;
+    margin: auto;
+    width: 500px;
+}
+.serImg{
+    width: 350px;
+    height: 350px;
+    
+}
+.ptext{
+    width:250px;
+    text-align: left;
+    padding-top: 5rem;
+}
+.textone{
+    text-align: right;
+}
+h3{
+    color:#4674c8
+}
+.center{
+    text-align: center;
+}
+button{
+    background-image:linear-gradient(to right,rgb(139, 155, 186),rgb(2, 70, 197)) ;
+    color:#fff;
+    padding: .5rem 1.5rem;
+    border-radius: 10%;
+}

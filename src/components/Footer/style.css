@@ -1,0 +1,51 @@
+.footer{
+    padding: 4rem 0 3rem;
+    background-image: linear-gradient(to right,rgb(139, 155, 186),rgb(2, 70, 197));
+    color:#fff;
+    text-align:left
+}
+.textD{
+    text-align: left;
+
+   padding:0px 30px
+}
+.div{
+    font-size: 2rem;
+    color:#fff
+}
+i{
+    
+    color: blue;
+    background-color: #fff;
+    border-radius: 50%;
+    padding:0.5rem;
+    font-size: 0.4rem;
+}
+a{
+    color: #fff;
+    text-decoration: none;
+}
+img{
+    width:150px;
+    height: 70px;
+
+}
+.app{
+    width:150px;
+    height: 60px;
+    padding-right: 1rem;
+    padding-top: 0.8rem;
+}
+.links{
+    text-align: center;
+}
+.logo{
+    width:100px;
+    height: 90px;
+}
+span{
+    font-size: medium;
+}
+h2{
+    color:#fff
+}

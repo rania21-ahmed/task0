@@ -1,0 +1,26 @@
+.navbarr{
+    padding: 0.3rem 0;
+
+    background-image: linear-gradient(to right,rgb(139, 155, 186),rgb(2, 70, 197));
+    color:#fff
+}
+.left{
+    text-align: left;
+    color:#888
+}
+.center{
+    text-align: center;
+    padding: 1.4rem 0;
+}
+.right{
+    text-align: right;
+    padding-top: 1.7rem;
+    font-size: 1.2rem;
+}
+img{
+    height: 70px;
+    width: 50px;
+}
+i{
+    color:#222
+}
